@@ -2,5 +2,7 @@
 
 ssh ubuntu@ec2-35-165-18-78.us-west-2.compute.amazonaws.com <<EOF
   cd /var/www/test_git_sync
+  git checkout master
+  git pull
   exit
 EOF
