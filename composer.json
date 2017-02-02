@@ -1,0 +1,12 @@
+{
+  "name": "anoop_soni/test_git_sync",
+  "description": "test the git sync",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Anoop Soni",
+      "email": "soni.anoop71@gmail.com"
+    }
+  ]
+}
